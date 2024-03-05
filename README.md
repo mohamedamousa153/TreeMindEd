@@ -1,4 +1,4 @@
-# TreeMindED: Navigating Careers Made Simple
+# TreeMindED
 
 ## Overview
 
@@ -19,5 +19,6 @@ TreeMindED is an innovative solution crafted to address these difficulties. It t
 
 ## Why TreeMindED?
 
-TreeMindED is not just a tool; it's a system meticulously designed to empower individuals in their professional journeys. Join us on the path to career success, where clarity meets opportunity.
+TreeMindED is not just a tool; it's a system  designed to empower individuals in their professional journeys. Join us on the path to career success, where clarity meets opportunity.
 
+![WhatsApp Image 2024-03-05 at 10 54 29 AM](https://github.com/mohamedamousa153/TreeMindEd/assets/83841881/0a178c51-a40e-4b24-af80-c812513bef7b)
